@@ -1,0 +1,77 @@
+12.1 and 12.2
+
+- Light travels in direction of WaveFront
+- Color is what our brain interprets from incident of light
+- 350nm to 750nm (violet to red) 
+- White is mixture of light
+- Subtractive color theory (we see light not absorbed)
+- CIGEM?-
+- Can use color circle to predict color based on absorbed color
+
+12.3
+
+- LED (light emitting diode) - emit only one light 
+- light bulb emits light like a curve called spectral emittance curves
+
+12.4
+
+- Angle of reflection is equal to angle of refraction
+- Refraction occurs when two thing have different refraction indexes
+- Refraction index is how much light is slowed upon entering a material
+- Fill cracks with epoxy with similar refractive index, or else diamond looks homogeneous - distracting
+- Total internal reflection - when angle of incident is greater than the critical angle, which is 
+dependant on the refractive index
+- Maximum brilliance of a stone is achieved when much of the light that enters the crown facets reflects 
+from the lower pavilion facets and then re-emerges from the crown to our eyes
+
+12.5
+
+Isotropic material - One refractive index that is applicable for all 3 dimensional orientations
+Anisotropic - More than one refractive index
+
+12.6
+
+- Anisotropic - tetragonal and Hexagonal crystal systems
+	- related to unique crystal structure
+- Birefringence - absolute difference between refractive indexes
+- double refraction because light entering is refracted into two lights due to high refractive difference
+- Small difference results in blur
+
+12.7
+
+Dispersion - when light entering diamond is refracted by different amounts. Shorter wavelength are
+refracted most
+	- Measured by difference in refreaction between red (686.7 nm) and violet (430.8 nm)
+- Higher valued stones show greater dispersion, spreading, or colour
+- Diamond has 0.044. demantoid has 0.057 and Titanite has 0.051
+
+12.8
+
+- Idiochromatic - self colored
+- Allochromatic - impurities
+	- eg emerald where chromium is the chromosphore
+- Pseudochromatic - fake colored from physical optics, from scattering, dispersion etc. 
+	- Includes asterism, chatoyancy, iridescence, opalescnence, and labradorescence
+- Chromosphore - element responsible for coloration
+
+12.9
+
+- Pleochromism - Different color from different angle of viewing
+	- Best viewed using a tool called dichroscope
+	- ex. Tanzanite ( 3 colours) that aline with 3 different axis
+	- ex. Iolite
+- Vikings used for navigation when sun is very low, used to spot sun
+	
+12.10
+
+- Transparency - how light transmits through a medium
+	- Transparent: objects can be viewed through medium (glass, diamond, beryl)
+	- Semi0transparent: minerals where objects can be viewed through medium but is heavily blurred
+		-ex. chalcedony, moonstone
+	- Translucent: Object cannot be viewed through medium but light passes through with low intensity
+		-ex. jade, opan, agate
+	- Semi-translucent: Object cannot pass through medium and light passes only if thin
+		-ex. jade, turquoise
+	- Opaque: No light passes through, object cannot be seen
+		ex. pyrite, malachite, galena
+		

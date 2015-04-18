@@ -1,0 +1,54 @@
+19.1
+
+19.2 - Geoscientist
+
+Trained eye can estimate dispersion, habits, fractures, and cleavages as well as inclusions
+	- magnifying glass and hand lens can see finer details
+Tweezers - locks stones, better grips
+	- human hands are unsteady and oily
+Hammers and chopsticks - 
+	- Hammer needs to be hardened. Estwing a common brand
+	- Geotul - 2.5lb and 30" long
+	- Chopsticks and paint brushes are good for cleaning dirt
+Scratch Pad and Hardness Picks
+	- Streak color gives away minerals like hermatite.
+	- Ruby against white ceramic plate (H~6.5). If softer, will leave streak
+	- Use pencils with mineral tips to see if scratches happen, useful for quarts (H = 7), Beryl(8.5)
+	or corundum (9)
+	
+19.3 - Gemological Tools
+
+Loupe - hand lens, 10X
+Chelsea Filter - emerald filter, useful for emeralds. Allows only green and red
+Dichroscope - optic class test. Two colors for gems with two refractive index, one color for
+gem with one 
+UV Lamp - Short(260nm) and long (365nm) 
+	- long LED becoming more common nowadays
+	- detect re-emission
+Refractometer - determine refractive index
+	- Does not use transmitted light like dichroscopes
+	- Mapped to tables, useful for unusual stones
+Diamond tester - See if stone is diamond
+	- Thermal conductivity and electrical
+Microscope - stationary, 10X to 1000X
+	- Find flaws in stone 
+	- Find inclusions
+Spectroscope - See what light is absorbed
+Immersion cells and RI liquids - refractive index
+	- See if stone is composite
+	- Put in liquid. If same refractive, then light does not bend
+Polariscope
+	- Benchtop dichroscopes
+
+19.3 - mineralogical tools
+
+Polarizing Microscopes
+	- for rock of 30 micro thickness
+	- special filters to change light passed through
+	- up to 400X magnification
+	Also called petrographic microscopes
+Raman microscope - minochromatic lazer to see scattered light
+	- finds chemical makeup and structure of target, easy to interpret
+
+19.4 - Ruby and Emerald have different colors due to difference in local crystal structure 
+despite having same transition metal
